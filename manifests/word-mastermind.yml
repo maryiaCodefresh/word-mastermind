@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: word-mastermind
-        image: mashabrauer/word-mastermind:1.0
+        image: mashabrauer/word-mastermind:5.0
         ports:
         - containerPort: 80
         env:
